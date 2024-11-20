@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello there!
+
+🌟 Welcome to My GitHub Profile
+
+🚀 I'm a postgraduate student of Applied Computer Science
+
+⚡ My passions are **Computer Graphics**, **Interactive Systems Design** and everything in between!
+
 
 <!--
 **hunsri/hunsri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
