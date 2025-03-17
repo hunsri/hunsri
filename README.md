@@ -2,9 +2,11 @@
 
 🌟 Welcome to My GitHub Profile
 
-🚀 I'm a postgraduate student of Applied Computer Science
+🚀 Postgraduate student of Applied Computer Science
 
-⚡ My passions are **Computer Graphics**, **Interactive Systems Design** and everything in between!
+🔨 Personal Projects range from XR Applications to creating Discord Bots for fun
+
+⚡ Passionate about **Computer Graphics**, **Interactive Systems Design** and everything in between!
 
 
 <!--
