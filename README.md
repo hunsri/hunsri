@@ -4,7 +4,7 @@
 
 🚀 Postgraduate student of Applied Computer Science
 
-🔨 Personal Projects range from XR Applications to creating Discord Bots for fun
+🔨 Personal Projects range from XR Applications to creating compact experimental programs for fun
 
 ⚡ Passionate about **Computer Graphics**, **Interactive Systems Design** and everything in between!
 
